@@ -61,7 +61,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 ### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+Link to deployed site with netifly: https://sharp-ride-1b8fe2.netlify.com/
 
 ### `yarn build` fails to minify
 
